@@ -13,7 +13,8 @@ public class PrimeiroPrograma {
 		
 		System.out.println(gato);
 		System.out.println(livros);  //irá aparecer o nome do pacote, pois não foi implementado o to String
-		
+		System.out.println("Teste Git.");
+		System.out.println("Outro Test!");
 		
 		
 	}
