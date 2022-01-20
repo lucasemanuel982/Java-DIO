@@ -1,0 +1,14 @@
+Atalhos  no Eclipse
+CTRL + N - Cria uma projeto
+CTRL + Space -  auto Complet
+Sleciona e aperta F2 - Renomeia 
+CTRL + M -  maximiza e minimiza
+CTRL + 3 - abre a lupa
+CTRL + D - paga uma linha
+ALT + Seta para cima ou baixo - move o código
+CRTL + SHIF + F - organiza o código
+CTRL + SHIFT + O - importa o que está faltando
+
+Window > Show View - Adiciona mais janelas
+Window >  Preference > General > Appearence - Mudar tema do Eclipse
+Window > preference > General > Appearence > colors and fonts > "Java editor text font" - mudar o tamnaho da letra
