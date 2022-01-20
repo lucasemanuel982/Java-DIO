@@ -32,7 +32,7 @@ public class PrimeiroPrograma {
 
 }
 
-class livros {
+class Livros {
 	private String nome;
 	private String tipo; 
 }
